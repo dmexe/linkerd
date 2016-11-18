@@ -1,0 +1,4 @@
+*
+!Dockerfile
+!linkerd/target/scala-2.11/*
+!config.yml
